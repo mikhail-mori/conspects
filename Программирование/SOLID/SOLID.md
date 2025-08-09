@@ -2,32 +2,33 @@
 
 ## Оглавление
 
-- [Введение в SOLID принципы](Программирование/SOLID/01-vvedenie.md)
-- [Глава 1: Single Responsibility Principle (SRP)](Программирование/SOLID/02-srp.md)
-- [Глава 2: Open-Closed Principle (OCP)](Программирование/SOLID/03-ocp.md)
-- [Глава 3: Liskov Substitution Principle (LSP)](Программирование/SOLID/04-lsp.md)
-- [Глава 4: Interface Segregation Principle (ISP)](Программирование/SOLID/05-isp.md)
-- [Глава 5: Dependency Inversion Principle (DIP)](Программирование/SOLID/06-dip.md)
-- [Глава 6: Комплексное применение SOLID принципов](Программирование/SOLID/07-kompleksnoe-primenenie.md)
-- [Глава 7: Продвинутые техники и лучшие практики](Программирование/SOLID/08-prodvinutye-tehniki.md)
-- [Глава 8: Заключение и дальнейшие шаги](Программирование/SOLID/09-zaklyuchenie.md)
+- [Введение в SOLID принципы](01-vvedenie.md)
+- [Глава 1: Single Responsibility Principle (SRP)](02-srp.md)
+- [Глава 2: Open-Closed Principle (OCP)](03-ocp.md)
+- [Глава 3: Liskov Substitution Principle (LSP)](04-lsp.md)
+- [Глава 4: Interface Segregation Principle (ISP)](05-isp.md)
+- [Глава 5: Dependency Inversion Principle (DIP)](06-dip.md)
+- [Глава 6: Комплексное применение SOLID принципов](07-kompleksnoe-primenenie.md)
+- [Глава 7: Продвинутые техники и лучшие практики](08-prodvinutye-tehniki.md)
+- [Глава 8: Заключение и дальнейшие шаги](09-zaklyuchenie.md)
 
 ---
+Данный ниже список сделан для использования в Obsidian. В GitHub он отображаться не будет.
 
-![[Программирование/SOLID/01-vvedenie.md]]
+![[01-vvedenie]]
 
-![[Программирование/SOLID/02-srp.md]]
+![[02-srp]]
 
-![[Программирование/SOLID/03-ocp.md]]
+![[03-ocp]]
 
-![[Программирование/SOLID/04-lsp.md]]
+![[04-lsp]]
 
-![[Программирование/SOLID/05-isp.md]]
+![[05-isp]]
 
-![[Программирование/SOLID/06-dip.md]]
+![[06-dip]]
 
-![[Программирование/SOLID/07-kompleksnoe-primenenie.md]]
+![[07-kompleksnoe-primenenie]]
 
-![[Программирование/SOLID/08-prodvinutye-tehniki.md]]
+![[08-prodvinutye-tehniki]]
 
-![[Программирование/SOLID/09-zaklyuchenie.md]]
+![[09-zaklyuchenie]]
