@@ -254,3 +254,17 @@ MutablePoint нарушает LSP, так как он изменяет свой�
 	    def process(self, data):
 	        return int(data)  # Другой тип!
 	```
+4. **Подкласс имеет пустые реализации методов базового класса**
+```python
+class Vehicle:
+	def start_engine(self):
+	    pass
+	def stop_engine(self):
+	    pass
+
+class Bicycle(Vehicle):
+    def start_engine(self):
+        pass  # Пустая реализация
+    def stop_engine(self):
+        pass  # Пустая реализация
+```
